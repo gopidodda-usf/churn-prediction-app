@@ -34,7 +34,7 @@ Our solution integrates a **Random Forest model** with a **Streamlit web applica
 - **Python** (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 - **Jupyter Notebook** for EDA and modeling
 - **Streamlit** for app development and deployment
-- **Dataset**: [Customer Churn Dataset (Kaggle)](https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset/data)
+<!-- - **Dataset**: [Customer Churn Dataset (Kaggle)](https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset/data) -->
 
 ---
 
