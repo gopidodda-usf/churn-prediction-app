@@ -45,7 +45,7 @@ Our solution integrates a **Random Forest model** with a **Streamlit web applica
 > ⚠️ *Note: The Streamlit app may go inactive after a period of inactivity. If the link doesn’t load, feel free to refresh or contact me — I’ll be happy to relaunch it.*
 
 ---
-
+<!--
 ## 📈 Strategic Recommendation
 
 We recommend a **combined approach** focused on:
@@ -55,7 +55,7 @@ We recommend a **combined approach** focused on:
 - 🔁 **Contract restructuring** to shift users to long-term value plans
 
 This strategy balances **data accuracy**, **customer centricity**, and **scalability**, inspired by real-world practices such as those in **Jabil** and **Tesla** case studies.
-
+-->
 ---
 
 ## 👥 Team Members
